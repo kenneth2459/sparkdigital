@@ -29,6 +29,10 @@
 	<!-- [if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
+		<!--[if lte IE 8]> 
+	<script charset="utf-8" type="text/javascript" 
+	src="//js.hsforms.net/forms/v2-legacy.js"></script> 
+	<![endif]--> 
 
 </head>
 <body>

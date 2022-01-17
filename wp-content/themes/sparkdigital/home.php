@@ -23,77 +23,9 @@
 				</div>
 				<div class="col-md-6">
 					<div class="bk-grey">
-
-						<form class="row g-2 needs-validation" novalidate>
-
-						  	<div class="col-md-6">
-							  	<div class="form-group">
-							    	<input type="text" class="form-control" id="firstname" placeholder="First name*" required>
-							    </div>
-							</div>
-
-
-						  <div class="col-md-6">
-						  	<div class="form-group">
-						    	<input type="text" class="form-control" id="lastname" placeholder="Last name*" required>
-						    </div>
-						  </div>
-
-
-						  <div class="col-md-12">
-						    	<div class="form-group">
-						      		<input type="email" class="form-control" id="email" placeholder="Email*" aria-describedby="email" required>
-						   		</div>
-						  </div>
-
-
-						  <div class="col-md-12">
-						  		<div class="form-group">
-						    		<input type="text" class="form-control" id="organization" placeholder="Organization name*" required>
-						    	</div>
-						  </div>
-
-
-						  <div class="col-md-12">
-						  	<div class="form-group">
-							    <select class="form-control" id="capacity" required>
-							      <option selected disabled value="">Enrollment capacity</option>
-							      <option>Option 1</option>
-							      <option>Option 2</option>
-							      <option>Option 3</option>
-							      <option>Option 4</option>
-							      <option>Option 5</option>
-							    </select>
-							</div>
-						  </div>
-
-
-
-						  <div class="col-md-12">
-						    	<div class="form-group">
-						      		<input type="phone" class="form-control" id="email" placeholder="Phone number*" aria-describedby="phone" required>
-						   		</div>
-						  </div>
-
-
-						<div class="col-md-12">
-						  	<div class="form-group">
-							    <select class="form-control" id="preschool" required>
-							      <option selected disabled value="">Preschool or child care</option>
-							      <option>Option 1</option>
-							      <option>Option 2</option>
-							      <option>Option 3</option>
-							      <option>Option 4</option>
-							      <option>Option 5</option>
-							    </select>
-							</div>
+						<div id="form1">
+							
 						</div>
-
-						  <div class="col-12">
-						    <button class="btn btn-link btn-orange font-white btn-lg btn-block" type="submit">Request Your Demo</button>
-						  </div>
-						</form>
-
 					</div>
 				</div>
 			</div>
